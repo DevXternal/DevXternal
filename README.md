@@ -19,5 +19,5 @@ Hi there, im a developer that creates random stuff and stupid stuff, im also the
 - https://roblox.com/users/3252335840/profile
 - https://roblox.com/users/3594194197/profile
 - Discord:
-- SomeScripter#2969
+- DevXternal#2969
 - Identity Crisis#0583
