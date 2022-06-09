@@ -1,3 +1,23 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Do-Not-Disturb?color=fc4409&labelColor=434343&icon=discord)](https://github.com/Obesto/obesto)
-
-Being updated...
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Do-Not-Disturb?color=fc4409&labelColor=434343&icon=discord)](https://github.com/Obesto/obesto) [![Discord Username](https://img.shields.io/badge/Discord%20User-SomeScripter%232969-red)](https://discord.com)
+# Hello!
+Hi there, im a developer that creates random stuff and stupid stuff, im also the creator of CryT.
+# What i use.
+- Visual Studio
+- Atom Text Editor
+- Roblox Studio
+# What programming languages i use.
+- Lua
+- HTML
+- JS
+- PHP
+- Python
+- And a little bit of C#
+# Stuff
+- https://tiktok.com/@somescripter
+- https://tiktok.com/@boioofproductions
+- https://roblox.com/users/1192873846/profile
+- https://roblox.com/users/3252335840/profile
+- https://roblox.com/users/3594194197/profile
+- Discord:
+- SomeScripter#2969
+- Identity Crisis#0583
