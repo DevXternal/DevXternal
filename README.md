@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Idle/%F0%9F%85%B1%EF%B8%8Fobuk?color=edca00&labelColor=edca00&icon=discord)](https://github.com/DevXternal/DevXternal) [![Discord Username](https://img.shields.io/badge/Discord%20User-DevXternal%232969-9cf)](https://discord.com)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Playing%20Game/War%20Thunder%2C%2012%20minutes%20elapsed.?color=fc4409&labelColor=00cd90&icon=discord)](https://github.com/DevXternal/DevXternal) [![Discord Username](https://img.shields.io/badge/Discord%20User-DevXternal%232969-9cf)](https://discord.com)
 # Hello!
 Hi there, im a developer that creates random stuff and stupid stuff, im also the creator of CryT.
 # What i use.
