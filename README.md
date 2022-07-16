@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Do-Not-Disturb/A?color=fc4409&labelColor=fc4409&icon=discord)](https://github.com/DevXternal/DevXternal)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/DevXternal/DevXternal)
 
 ## Who am I?
 I am a random the developer in the desert (aka Arizona) that makes stupid and random stuff.
